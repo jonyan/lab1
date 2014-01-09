@@ -1,0 +1,44 @@
+body {
+		background-color: #f6f6f6;
+		font-family: Futura;
+		font-size: 15px;
+		background-size: 100%;
+}
+
+#header {
+	margin-top: 8em;
+	color: black;
+}
+
+#description {
+	font-size: 1em;
+	font-style: italic;
+	line-height: 2em;
+}
+
+#name {
+	font-size: 3em;
+}
+
+.icon {
+	width: 120px;
+	height: auto;
+}
+
+#link {
+	text-decoration: none;
+	color: black;
+}
+
+#link:hover {
+	color: rgba(1, 1, 1, .5);
+}
+
+#coming_soon {
+	font-size: 3em;
+	font-style: italic;
+	margin-top: 8em;
+	color: rgba(1, 1, 1, .8);
+
+
+}
